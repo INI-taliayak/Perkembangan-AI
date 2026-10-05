@@ -1,0 +1,20 @@
+body { background-color: #FFB1B1;
+    font-family: sans-serif;
+    padding-bottom: 30px;
+    padding: 0px 5% 30px;}
+
+
+
+h1 {text-align:center;
+  font-family: sans-serif;
+font-size: 54px;
+color:brown;
+}
+
+h2 {color:#FFFAD3;
+ text-align:justify;
+   font-family:monospace;
+}
+
+img {width: 400px;
+}
